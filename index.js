@@ -5,10 +5,13 @@ class PsychicOcto {
     this.dancing = false;
   }
   giggle() {
-    console.log('HAHAHAHAHAHAHA!!!!');
+    console.log("roflcopters");
   }
   strangle() {
-    this.busy = true;
+    this.busy = !true;
+  }
+  dance() {
+    console.log("wiggle wiggle my psychic tentacles!");
   }
   dance() {
     this.dancing = true;
