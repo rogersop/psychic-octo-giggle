@@ -3,6 +3,6 @@ class PsychicOcto {
     this.laughing = true;
   }
   giggle() {
-    console.log('Hehehehehehehehe!!!');
+    console.log('rofl');
   }
 }
