@@ -4,10 +4,10 @@ class PsychicOcto {
     this.busy = false;
   }
   giggle() {
-    console.log("rofl");
+    console.log("roflcopters");
   }
   strangle() {
-    this.busy = true;
+    this.busy = !true;
   }
   dance() {
     console.log("wiggle wiggle my psychic tentacles!");
